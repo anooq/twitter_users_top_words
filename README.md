@@ -8,7 +8,7 @@ A python script using nltk and scikit-learn libraries to get the term frequency 
 
 - Tweets are captured and written to tweets.txt
 
-Usage
+Usage:
 
 - Create Twitter account and API access keys for application
 - Store the keys in credentials.txt (assign appropriate values to oauth_token=, oauth_token_secret=,app_key=,app_secret=). Don't share these credentials!
