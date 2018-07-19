@@ -2,9 +2,9 @@
 
 A python script using nltk and scikit-learn libraries to get the term frequency of a twitter user.
 
-- Given a twitter user name, this program would find which are the words used most frequently by this user, hence term frequency.
+- Given a twitter user name, this program would find which are the words most frequently used by this user, hence the term frequency.
 
-- Words are lemmatized using nltk WordNetLemmatizer, and english stop words
+- Words are optionally lemmatized using nltk WordNetLemmatizer, and english stop words
 
 - Tweets are captured and written to tweets.txt
 
